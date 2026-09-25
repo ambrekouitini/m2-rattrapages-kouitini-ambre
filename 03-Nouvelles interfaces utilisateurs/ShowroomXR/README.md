@@ -147,6 +147,12 @@ Les captures annotées se trouvent dans le dossier `Captures`.
 
 Le simulateur reste une approximation de l'expérience réelle : une seule main est contrôlable à la fois, les manettes ne vibrent pas et le texte paraît plus petit à l'écran que dans un casque. Avec plus de temps, j'aurais ajouté dans le configurateur une indication de la finition sélectionnée, ainsi qu'un libellé du bouton de rotation qui change lorsque le fauteuil tourne.
 
+## Vidéo de présentation
+
+[![Vidéo de présentation de la Galerie de Ambre](https://img.youtube.com/vi/c9ex4qQn6n0/hqdefault.jpg)](https://youtu.be/c9ex4qQn6n0)
+
+Démonstration de l'expérience et présentation des scripts : [voir la vidéo sur YouTube](https://youtu.be/c9ex4qQn6n0)
+
 ## Crédits
 
 Modèles et textures issus de [Poly Haven](https://polyhaven.com), sous licence CC0 : Mid Century Lounge Chair (Kuutti Siitonen), Desk Lamp Arm 01, Ceramic Vase 01 et 02, texture Lacquered Cherry Wood.
