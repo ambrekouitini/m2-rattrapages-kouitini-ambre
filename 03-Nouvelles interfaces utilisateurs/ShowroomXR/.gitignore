@@ -1,0 +1,44 @@
+# Unity generated folders (recreated automatically by Unity)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Uncompressed builds (only the zipped builds are committed)
+/[Bb]uilds/Mac/
+/[Bb]uilds/Windows/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash and debug files
+sysinfo.txt
+crashlytics-build.properties
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# macOS
+.DS_Store
+
+*.slnx
